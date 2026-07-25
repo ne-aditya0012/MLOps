@@ -1,0 +1,15 @@
+### What is Machine Learning & What is a Model?
+
+ - Machine Learning (ML) is the process of teaching a computer to find patterns from data instead of explicitly programming every rule. 
+ - A Model is the result of that learning—the mathematical function that has learned those patterns and can make predictions on new data.
+
+```
+A flower has - Petal, Stem, Sepal
+Imagine that you can code a python program that answers the type of flowers based on these three inputs (x,y,z) for ex. 2,3,2 = rose
+
+In this manner you'll have to write too many conditional if,if elses for 10000+ flower species!!
+
+Also, a rose is not identical to other roses, so it adds to the iterations
+```
+ - A Data Scientist takes a Dataset and Writes an Algorithm (Code)
+ - The Algorithm is then trained on the Dataset, the result of this process is a function called Model.
